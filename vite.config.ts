@@ -8,4 +8,5 @@ export default defineConfig({
   server: {
     port: 3030,
   },
+  base: "/vite_ts_vue/",
 });

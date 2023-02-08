@@ -8,6 +8,7 @@ const count = ref(0);
 
 <template>
   <h1>welcome to my Automated Deploy! By ViktorJJF</h1>
+  <h2>Imaginar y crear</h2>
   <h1>{{ msg }}</h1>
 
   <div class="card">
